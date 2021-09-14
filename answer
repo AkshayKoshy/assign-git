@@ -1,9 +1,0 @@
-1) gitignore specifies which files are untracked and should be ignored by gitignore
-
-2)Fast forwards means there is a straight path between the current brach to target branch ,
-so git instead of merging each branch in a secquence it moves its pointers to the target branch.
-
-3)having branches allows you to isolates your changes without having to edit the main.
-
-4)ideally in a project you should have only 1 repository , however sometimes in largers projects 
-you'll need more than one to manage the project efficiently.
